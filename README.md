@@ -1,1 +1,1 @@
-# cs-guided-project-computer-architecture-crash-course
+# arg-cs-guided-project-solution-computer-architecture-crash-course
